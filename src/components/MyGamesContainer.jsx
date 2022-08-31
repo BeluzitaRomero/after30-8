@@ -18,14 +18,16 @@ export const MyGamesContainer = () => {
           }
         }, time);
       });
-    // const promesa = new Promise((resolve, reject) => {
+
+    //OTRA FORMA
+    // const getGames = new Promise((resolve, reject) => {
     //   setTimeout(() => {
     //     if (gamesJson.length) {
     //       resolve(gamesJson);
     //     } else {
     //       reject("Error");
     //     }
-    //   }, time);
+    //   }, 3000);
     // });
 
     getGames(gamesJson, 3000)
