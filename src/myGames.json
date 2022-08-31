@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Elden Ring: el que te moris siempre",
+    "price": 150,
+    "img": "./img/elden.jpg",
+    "URLImg": "https://i.postimg.cc/c1P7PhDq/elden.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Dying Light 2: el de parkour y zombies",
+    "price": 120,
+    "img": "./img/dying.jpg",
+    "URLImg": "https://i.postimg.cc/RCWQPyLQ/dying.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Stray: el jueguito del michi",
+    "price": 180,
+    "img": "./img/stray.jpg",
+    "URLImg": "https://i.postimg.cc/pX8Qvj7m/stray.jpg"
+  }
+]
